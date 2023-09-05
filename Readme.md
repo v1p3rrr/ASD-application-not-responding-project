@@ -1,8 +1,12 @@
-Event tracker
+# Event tracker
 
 A web application that allows users to look for different events planned to take place in their city
 
-Similar systems: Yandex Afisha, Rambler Kassa
+## Similar systems
+- Yandex Afisha
+- Rambler Kassa
+
+## Features
 
 - Registration/authentication - user can create an account or log in into it in order to sign up for some events or to get notifications about them
 
