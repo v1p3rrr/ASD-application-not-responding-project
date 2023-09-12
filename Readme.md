@@ -40,3 +40,4 @@ CourseHub platform aims to bridge the gap between organizers and learners, offer
 - Soldatov Ilya
 - Konnov Andrey
 - Maksim Stowell
+- Sultan Saparbekov
